@@ -135,7 +135,6 @@ If you like this project please give it a star 😁🌟✨
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-- https://newsapi.org/
-- https://alan.app/
+ChatEngine.io
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
